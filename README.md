@@ -19,7 +19,7 @@ We focused on model architecture to determine an optimal (or at least better) or
 ## RESULTS
 The main takeaway is that even a simple neural-net can be used to price derivatives.  Without too much investigation we were able to build a model that replicates the output of the Black-Scholes model quite accurately.  
 
-![Comparison](output_results.png)
+![Comparison](output_prices.png)
 
 ![Error](output_error.png)
 
